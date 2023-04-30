@@ -1,8 +1,8 @@
-local background = require("background")
-local font = require("font")
-local colorscheme = require("colorscheme")
-local tab = require("tab")
-local size = require("size")
+local background = require("config/background")
+local font = require("config/font")
+local colorscheme = require("config/colorscheme")
+local tab = require("config/tab")
+local size = require("config/size")
 
 local config = {}
 
