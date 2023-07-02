@@ -11,5 +11,6 @@ font(config)
 colorscheme(config)
 tab(config)
 size(config)
+config.default_cursor_style = "BlinkingBar"
 
 return config
